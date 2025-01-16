@@ -3,4 +3,4 @@
 
 It is the successor to the [original project](https://github.com/SnowDroid) created by John Ott.
 
-Status: TBA
+Status: Announced on Jan 1, 2025. First alpha-releases - June 2025.
