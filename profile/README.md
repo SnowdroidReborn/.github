@@ -5,4 +5,4 @@ It is the successor to the [original project](https://github.com/SnowDroid) crea
 
 Full Snowdroid Reborn source code and patches is [here](https://gitlab.com/snowdroid).
 
-Status: Announced on Jan 1, 2025. First alpha-releases - June 2025.
+**Development status:** Announced on Jan 1, 2025. First alpha-releases - June 2025.
