@@ -1,5 +1,5 @@
 # Snowdroid (Reborn)
-**Snowdroid** - an independent operating system built on top of AOSP, the goal of which is to provide the greatest possible support for devices that are _poorly supported_ by device manufacturers.
+**Snowdroid** - an independent operating system based on AOSP that aims to improve Android's capabilities and support devices that are poorly supported by the community.
 
 It is the successor to the [original project](https://github.com/SnowDroid) created by John Ott.
 
